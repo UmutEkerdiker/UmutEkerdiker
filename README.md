@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut.</h1>
-<h3 align="center">An aspiring web developer living in London, UK.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutekerdiker" alt="umutekerdiker" /></a> </p>
+<h3 align="center">An aspiring web developer living in London, UK.</h3><br>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cc5af217262b4ad1bc3a6c2b098e0e6523d2c002&rid=giphy.gif&ct=g" />
 
 - 🔭 I’m currently working on **full-stack MERN applications.**
 
