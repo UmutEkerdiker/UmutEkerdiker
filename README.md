@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, React libraries and frameworks.**
 
-- 👨‍💻 All of my projects are available at [myportfolio.com](myportfolio.com)
+- 👨‍💻 <strong>[Visit My Portfolio Website Here](https://umutekerdiker.github.io/portfolio/).</strong>
 
 - 📫 How to reach me **umutekerdiker@gmail.com**
 
